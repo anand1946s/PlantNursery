@@ -1,10 +1,6 @@
-# fc_websiteRep
-Repository for our FC work
+  ====Bloom.com====
 
-I have made this github rep for collaborating the fc work
-
-Have shared the html and css code files.
-for html code : struc.html
-for css code : styles.css
-copy and paste it in vs code to edit
-Run them on vs code to update your work
+  This is the UI of a plant nursery website made using HTML,CSS,JavaScript.
+  UI provides a simple and minimal way to view the catalog, add to cart and billing feature.
+  To view the site clone the repo and run the index.html file
+  This was made as a group work of four members
