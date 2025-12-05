@@ -33,17 +33,6 @@ No server required — runs purely on client side.
 
 ---
 
-## 🧑‍🤝‍🧑 Contributors
-
-- [YourName1](https://github.com/username1)  
-- [YourName2](https://github.com/username2)  
-- [YourName3](https://github.com/username3)  
-- [You — anand1946s](https://github.com/anand1946s)  
-
-*(You can replace with real names or GitHub handles)*
-
----
-
 ## 📝 Project Status
 
 - ✔️ UI and basic cart & billing simulation implemented (static HTML/CSS/JS)  
